@@ -1,3 +1,4 @@
 let character = 'Hello';
-character = "World"
+console.log(character);
+character = "World";
 console.log(character);
