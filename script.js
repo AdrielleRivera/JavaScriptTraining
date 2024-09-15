@@ -2,9 +2,10 @@ const character = "#";
 const count = 8;
 const rows = [];
 
-function padRow(){
-  
+function padRow() {
+
 }
+padRow();
 
 
 for (let i = 0; i < count; i = i + 1) {
